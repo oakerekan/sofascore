@@ -1,0 +1,1 @@
+This repository contains football sport data scrapped from sofascore.com
